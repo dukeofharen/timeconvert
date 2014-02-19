@@ -1,0 +1,8 @@
+C:\Users\Duco\documents\visual studio 2012\Projects\TimeConvert\TimeConvert\bin\Release\TimeConvert.exe.config
+C:\Users\Duco\documents\visual studio 2012\Projects\TimeConvert\TimeConvert\bin\Release\TimeConvert.exe
+C:\Users\Duco\documents\visual studio 2012\Projects\TimeConvert\TimeConvert\bin\Release\TimeConvert.pdb
+C:\Users\Duco\documents\visual studio 2012\Projects\TimeConvert\TimeConvert\obj\Release\TimeConvert.Main.resources
+C:\Users\Duco\documents\visual studio 2012\Projects\TimeConvert\TimeConvert\obj\Release\TimeConvert.Properties.Resources.resources
+C:\Users\Duco\documents\visual studio 2012\Projects\TimeConvert\TimeConvert\obj\Release\TimeConvert.csproj.GenerateResource.Cache
+C:\Users\Duco\documents\visual studio 2012\Projects\TimeConvert\TimeConvert\obj\Release\TimeConvert.exe
+C:\Users\Duco\documents\visual studio 2012\Projects\TimeConvert\TimeConvert\obj\Release\TimeConvert.pdb
